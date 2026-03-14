@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Test files
+test_*/
+*_test/
+*.pdf
+*_images/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output
+output/
+dist/
+build/
